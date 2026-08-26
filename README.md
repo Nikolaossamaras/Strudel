@@ -9,7 +9,16 @@ and then press play
 ## OR
 
 go to this [site](https://patterns.slab.org)
+
 then delete the code
-then copy the code in main.str
+
+then copy the code in [main.str](https://github.com/Nikolaossamaras/Strudel/blob/main/main.str)
+
 and then press play
 
+## OR 
+download the code 
+
+open it in visual studio 
+
+and then run it there
