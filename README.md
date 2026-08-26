@@ -6,3 +6,10 @@ go to this [website](https://strudel.cc/#CnN0YWNrKAogIHMoImhoOjEgaGg6MSBoaDoxIGh
 
 and then press play
 
+## OR
+
+go to this [site](https://patterns.slab.org)
+then delete the code
+then copy the code in main.str
+and then press play
+
