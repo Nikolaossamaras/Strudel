@@ -17,7 +17,7 @@ then copy the code in [main.str](https://github.com/Nikolaossamaras/Strudel/blob
 and then press play
 
 ## OR 
-download the code 
+download the code [main.str](https://github.com/Nikolaossamaras/Strudel/blob/main/main.str)
 
 open it in visual studio 
 
