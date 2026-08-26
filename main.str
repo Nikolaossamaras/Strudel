@@ -1,0 +1,8 @@
+
+stack(
+  s("hh:1 hh:1 hh:1 hh:1 hh:1 hh:1 hh:1 hh:1 hh:2 hh:2 hh:2 hh:2 hh:3 hh:3 hh:3 hh:3 hh:1 hh:1 hh:1 hh:1 hh:1 hh:1 hh:1 hh:1 hh:2 hh:2 hh:2 hh:2 hh:3 hh:3 hh:3 hh:3 hh:1 hh:1 hh:1 hh:1 hh:1 hh:1 hh:1 hh:1 hh:2 hh:2 hh:2 hh:2 hh:3 hh:3 hh:3 hh:3 hh:1 hh:1 hh:1 hh:1 hh:1 hh:1 hh:1 hh:1 hh:2 hh:2 hh:2 hh:2 hh:3 hh:3 hh:3 hh:3 hh:1 hh:1 hh:1 hh:1 hh:1 hh:1 hh:1 hh:1 hh:2 hh:2 hh:2 hh:2 hh:3 hh:3 hh:3 hh:3 ~@112").slow(4),
+  note("~@80 f@4 e@8 [ f2 f3 f2 f3 f2 f2 f] f@7 [ f2 f3 f2 f3 f2 f2 f] f@7 [ f2 f3 f2 f3 f2 f2 f] f@7 [ f2 f3 f2 f3 f2 f2 f] f@7 [ f2 f3 f2 f3 f2 f2 f] f@7 ~@60").s('sawtooth').slow(4),
+  note("~@136 f1@10 f2@10 f3@10 f1@10 f2@10 f3@10 ~@10").s("sine").slow(4).gain(1.5).lpf(500).shape(0.6),
+  s("~@16 [ ~ ~ ~ sd][sd sd sd sd] ~@1").slow(4).lpf(500).shape(0.8),
+  s("bd ~ ~ ~ bd ~ ~ ~ ~@7 [bd bd bd bd]").slow(4).gain(1.4),  // kick
+)._punchcard()
